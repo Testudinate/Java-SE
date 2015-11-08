@@ -5,7 +5,7 @@ Sample Input:
 
 Sample Output:
 
-It's alive! It's alive!
+Hello world!
 
 public class Main{
     public static void main(String[] args){
