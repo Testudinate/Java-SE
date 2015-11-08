@@ -1,0 +1,8 @@
+Выберите правильные объявления метода main — такие, 
+при которых программа успешно скомпилируется и запустится.
+
+static void main(String[] args)
+public static void main(String[] args) *
+public static void main()
+public void main(String[] args)
+public static int main(String[] args) 
