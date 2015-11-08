@@ -1,0 +1,6 @@
+Выберите из приведенных ниже комментариев те, которые являются JavaDoc-комментариями.
+
+ /** Is this a javadoc? */ <-this
+/* Is this a javadoc? */
+/// Is this a javadoc?
+/*! Is this a javadoc? */ 
