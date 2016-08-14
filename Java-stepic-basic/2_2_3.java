@@ -20,6 +20,8 @@ Sample Output 2:
 d
 
 
+https://docs.oracle.com/javase/tutorial/java/data/characters.html
+
 public char charExpression(int a) {
     int s = '\\';
     int total = s + a;
